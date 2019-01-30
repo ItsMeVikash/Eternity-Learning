@@ -1,0 +1,80 @@
+String androidNames[]={"GoogleDevelopers","JavaTPoint","TotorialsPoint","GoogleTraining","O7Planning","W3Adda"};
+String androidUrl[]={"https://developer.android.com/guide/","https://www.javatpoint.com/android-tutorial","https://www.tutorialspoint.com/android/","https://developers.google.com/training/android/","https://o7planning.org/en/11007/android","https://www.w3adda.com/android-tutorial"};
+
+String AngularJsNames[]={"OfficialDocumentation","W3Schools","TutorialsPoint","Guru99","Codecademy","TotorialsTeachers","Thinkster"};
+String angularJsUrl[]={"https://docs.angularjs.org/tutorial","https://www.w3schools.com/angular/","https://www.tutorialspoint.com/angularjs/","https://www.guru99.com/angularjs-tutorial.html","https://www.codecademy.com/learn/learn-angularjs","https://www.tutorialsteacher.com/angularjs/angularjs-tutorials","https://thinkster.io/topics/angular"};
+
+String cNames[]={"TutorialsPoint","CProgramming","Programiz","W3schools","StudyTonight","JavaTPoint","Fresh2Refresh","GeeksforGeeks"};
+String cUrl[]={"https://www.tutorialspoint.com/cprogramming/","https://www.cprogramming.com/tutorial/c-tutorial.html","https://www.programiz.com/c-programming","https://www.w3schools.in/c-tutorial/","https://www.studytonight.com/c/","https://www.javatpoint.com/c-programming-language-tutorial","https://fresh2refresh.com/c-programming/","https://www.geeksforgeeks.org/c-programming-language/"};
+
+String cppNames[]={"LearnCPP","CplusPlus","TutorialsPoint","Programiz","SoloLearn","CPPforSchool","JavaTPoint","W3schools","GeeksforGeeks"};
+String cppUrl[]={"https://www.learncpp.com/","http://www.cplusplus.com/doc/tutorial/","https://www.tutorialspoint.com/cplusplus/","https://www.programiz.com/cpp-programming","https://www.sololearn.com/Course/CPlusPlus/","http://www.cppforschool.com/tutorials.html","https://www.javatpoint.com/cpp-tutorial","https://www.w3schools.in/cplusplus-tutorial/","https://www.geeksforgeeks.org/c-plus-plus/"};
+
+String currentAffairsNames[]={"IndiaBix","Exambazaar","StudyLion","GKIndia","Affairscloud","EPW"};
+String currentAffairsUrl[]={"http://www.indiabix.com/current-affairs/","http://www.exambazaar.com/","http://www.studylion.com/","https://www.gktoday.in/","https://www.affairscloud.com/","https://www.epw.in/"};
+
+String entranceExamNames[]={"Recruitment","Mysarkarinaukri","Entrance360","Successcds"};
+String entranceExamUrl[]={"http://recruitmentexams2018.blogspot.com/?m=1","https://www.mysarkarinaukri.com/","https://www.entrance360.com/","https://www.successcds.net/ "};
+ 
+String gateNames[]={"Gateforum","Nptel","Aceenggacademy","Madeeasy"};
+String gateUrl[]={"https://gateforum.com/courses/online-targate-plus/","https://nptel.ac.in/gate_paper.php","https://www.aceenggacademy.com/gate-2019-ace-online-test-series/","https://onlinetestseriesmadeeasy.in/"};
+
+String gkNames[]={"Edudose","Indiabix","Allindiaexams","Gkexams","Tcyonline"};
+String gkUrl[]={"https://www.edudose.com/gk/","https://www.indiabix.com/online-test/general-knowledge-test/","http://www.allindiaexams.in/online-test/online-general-knowledge-test/all","https://www.gkexams.com/india-gk-mock-test-in-hindi.html","https://www.tcyonline.com/exam-preparation-general-knowledge-gk-test/100379/general-knowledge"};
+
+String htmlNames[]={"W3schoolsHTML","W3schoolsCSS","LearnShayhowe","Codecademy","TutorialspointCSS","TutorialspointHTML","JavaTPointHTML","JavaTPointCSS","GeeksforGeeksHtml","GeeksforGeeksCSS"};
+String htmlUrl[]={"https://www.w3schools.com/html/default.asp","https://www.w3schools.com/css/default.asp","https://learn.shayhowe.com/html-css/","https://www.codecademy.com/learn/learn-html","https://www.tutorialspoint.com/css/","https://www.tutorialspoint.com/html/","https://www.javatpoint.com/html-tutorial","https://www.javatpoint.com/css-tutorial","https://www.geeksforgeeks.org/html-tutorials/","https://www.geeksforgeeks.org/css-tutorials/"};
+
+String interviewNames[]={"How to crack ?","All Programming Interview Questions","Common Questions","Top 14 Questions"};
+String interviewUrl[]={"https://www.tutorialspoint.com/cracking_interviews/index.htm","https://www.javatpoint.com/interview-questions-and-answers","https://fairygodboss.com/career-topics/interviewing-questions-and-answers","https://careersidekick.com/what-to-say-in-a-job-interview-questions-and-answers/"};
+
+String iosNames[]={"AppleDeveloper","TutorialsPoint","AppCoda"};
+String iosUrl[]={"https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/","https://www.tutorialspoint.com/ios/","https://www.appcoda.com/tutorials/ios/"};
+
+String jeeNames[]={"iitjeephysics4u","JeeMainGuru","JeeMain","JeeAdvance","IITLectures","OnlineTest","Videos"};
+String jeeUrl[]={"https://www.iitjeephysics4u.com/","https://jeemain.guru/","https://www.toppr.com/exams/jee-main/","https://www.toppr.com/exams/jee-advanced/","https://www.iitjeelectures.com/","https://jeemainonline.in/","http://www.kaysonseducation.co.in/"};
+
+String javaNames[]={"TutorialsPoint","W3schools","OracleDocumentation","Guru99","JavaTPoint","GeeksforGeeks"};
+String javaUrl[]={"https://www.tutorialspoint.com/java/","https://www.w3schools.com/java/","https://docs.oracle.com/javase/tutorial/","https://www.guru99.com/java-tutorial.html","https://www.javatpoint.com/java-tutorial","https://www.geeksforgeeks.org/java/"};
+
+String javascriptNames[]={"W3schools","JavaScriptInfo","TutorialsPoint","GeeksforGeeks","Guru99","JavaTPoint"};
+String javascriptUrl[]={"https://www.w3schools.com/js/","https://javascript.info/","https://www.tutorialspoint.com/javascript/","https://www.geeksforgeeks.org/javascript-tutorial/","https://www.guru99.com/interactive-javascript-tutorials.html","https://www.javatpoint.com/javascript-tutorial"};
+
+String jobNames[]={"LinkedIn","69Jobs","Naukri","Glassdoor","AngelList","Monster","TimesJob","Shine","CutShort","FresherWorld"};
+String jobUrl[]={"https://in.linkedin.com/jobs/","http://www.69jobs.com/","https://www.naukri.com/","https://www.glassdoor.co.in","https://angel.co/","https://www.monsterindia.com/","https://www.timesjobs.com/","https://www.shine.com/","https://cutshort.io/","https://www.freshersworld.com/"};
+
+String junitNames[]={"Guru99","Vogella","TutorialsPoint","JavaTPoint","Baeldung","JunitOfficial"};
+String junitUrl[]={"https://www.guru99.com/junit-tutorial.html","http://www.vogella.com/tutorials/JUnit/article.html","https://www.tutorialspoint.com/junit/","https://www.javatpoint.com/junit-tutorial","https://www.baeldung.com/junit","https://junit.org/"};
+
+String mysqlNames[]={"TutorialsPoint","MySqlOfficial","JavaTPoint","Quackit"};
+String mysqlUrl[]={"https://www.tutorialspoint.com/mysql/","http://www.mysqltutorial.org/","https://www.javatpoint.com/mysql-tutorial","https://www.quackit.com/mysql/tutorial/"};
+
+String compilerNames[]={"CodeChef","IdeOne","CompileOnline","OnlineGDB","CodePad","JsFiddle","JDoodle","HackerEarth"};
+String compilerUrl[]={"https://www.codechef.com/ide","https://ideone.com/","http://www.compileonline.com/","https://www.onlinegdb.com/","http://codepad.org/","https://jsfiddle.net/","https://www.jdoodle.com/","https://code.hackerearth.com/"};
+
+String photographyNames[]={"worldphoto","photographyworld","creativelive","alison"};
+String photographyUrl[]={"https://www.worldphoto.org/","http://www.photographyworld.co/","https://www.creativelive.com/photography","https://alison.com/tag/photography"};
+
+String phpNames[]={"W3schools","TutorialsPoint","PhpTpoint","GeeksforGeeks","JavaTPoint"};
+String phpUrl[]={"https://www.w3schools.com/php/","https://www.tutorialspoint.com/php/","https://www.phptpoint.com/php-tutorial/","https://www.geeksforgeeks.org/php/","https://www.javatpoint.com/php-tutorial"};	
+
+String pythonNames[]={"W3schools","TutorialsPoint","Programiz","Guru99","GeeksforGeeks"};
+String pyhonUrl[]={"https://www.w3schools.com/python/","https://www.tutorialspoint.com/python/","https://www.programiz.com/python-programming/tutorial","https://www.guru99.com/python-tutorials.html","https://www.geeksforgeeks.org/python-programming-language/"};
+
+String quizNames[]={"Computer Science topic Wise","Scripting Language Quizes","Java topic wise","Quantitative Aptitude Quiz"};
+String quizUrl[]={"https://www.geeksforgeeks.org/quiz-corner-gq/","https://www.w3schools.com/quiztest/","https://www.javatpoint.com/examaccess","https://quiz.jagranjosh.com/quantitative-aptitude/"};
+
+String seleniumNames[]={"Guru99","Toosqa","JavaTpoint","TutorialsPoint"};
+String seleniumUrl[]={"https://www.guru99.com/selenium-tutorial.html","https://www.toolsqa.com/selenium-tutorial/","https://www.javatpoint.com/selenium-tutorial","https://www.tutorialspoint.com/selenium/"};
+
+String servletNames[]={"JavaTPoint","TutorialsPoint","BeginnersBook","StudyTonight","GeeksforGeeks"};
+String servletUrl[]={"https://www.javatpoint.com/servlet-tutorial","https://www.tutorialspoint.com/servlets/","https://beginnersbook.com/2013/05/servlet-tutorial/","https://www.studytonight.com/servlet/","https://www.geeksforgeeks.org/introduction-java-servlets/"};
+
+String springNames[]={"JavaTPoint","TutorialsPoint","SpringOfficial","Baeldung","Java4s"};
+String springUrl[]={"https://www.javatpoint.com/spring-tutorial","https://www.tutorialspoint.com/spring/","https://spring.io/guides","https://www.baeldung.com/spring-tutorial","https://www.java4s.com/spring/"};
+
+String testNgNames[]={"TestNG Official","TutorialsPoint","Mkyong"};
+String testNgUrl[]={"https://testng.org/","https://www.tutorialspoint.com/testng/","http://www.mkyong.com/tutorials/testng-tutorials/"};
+
+String upscNames[]={"Chanakya","Drishti","TotorialPoint","onestopias"};
+String upscUrl[]={"https://www.chanakyaiasacademy.com/","https://www.drishtiias.com/","https://www.tutorialspoint.com/upsc_ias_exams.htm","http://www.onestopias.com/tutorials/"};
