@@ -17,4 +17,4 @@ Screenshots
 ![](https://lh3.googleusercontent.com/efO2rckEA_syOHK_-cGZZMNiXdMUNaUazDVCfM4MlsEkaeBIgrb2FYLAqXbHRNxEzjVC=w720-h310-rw) 
 ![](https://lh3.googleusercontent.com/ZNZoqMhOQSNqy-nXu4szV5Tz8dzBBXvGYCMJN-qsT9ysGpvIDdSAy29_OraC0zPu-cXA=w720-h310-rw)
 
-<a href="https://play.google.com/store/apps/details?id=vikash.kumar.eternitylearning" class="button icon search">Search</a>
+<a href="https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png" class="button icon search">https://play.google.com/store/apps/details?id=vikash.kumar.eternitylearning</a>
