@@ -6,7 +6,7 @@ Enjoy full strength of ➵ all popular tutorials through your Android Devices. T
 
 ☝ Yes You Listened absolutely right. You Can learn everything from basic to master through all famous websites such as JavaTPoint, TutorialsPoint,GeeksforGeek, Gurur99 etc.
 
-<a href="https://play.google.com/store/apps/details?id=vikash.kumar.eternitylearning" class="button big">Get It On Google Play</a>
+<a href="https://play.google.com/store/apps/details?id=vikash.kumar.eternitylearning" rel="Get It On Google Play">![Foo](https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png)</a>
 
 Screenshots
 -----------
@@ -17,6 +17,6 @@ Screenshots
 ![](https://lh3.googleusercontent.com/efO2rckEA_syOHK_-cGZZMNiXdMUNaUazDVCfM4MlsEkaeBIgrb2FYLAqXbHRNxEzjVC=w720-h310-rw) 
 ![](https://lh3.googleusercontent.com/ZNZoqMhOQSNqy-nXu4szV5Tz8dzBBXvGYCMJN-qsT9ysGpvIDdSAy29_OraC0zPu-cXA=w720-h310-rw)
 
-<a href="https://play.google.com/store/apps/details?id=vikash.kumar.eternitylearning" rel="Google Play">![Foo](https://www.gstatic.com/android/market_images/web/play_prism_hlock_1x.png)]</a>
+<a href="https://play.google.com/store/apps/details?id=vikash.kumar.eternitylearning" class="button big">Get It On Google Play</a>
 
-<a href="https://play.google.com/store/apps/details?id=vikash.kumar.eternitylearning" rel="Google Play"><img src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png" alt="alt text" width="100" height="50"></a>
+
