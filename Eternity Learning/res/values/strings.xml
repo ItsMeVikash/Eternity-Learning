@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Eternity Learning</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home_fragment">Home</string>
+    <string name="search_fragment">Search</string>
+    <string name="learninghub_fragment">Learning\nHub</string>
+    <string name="extras_fragment">Extras</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Build Your Career!</string>
+    <string name="slide_1_desc">Learn Important concepts from popular websites, Search for jobs and many More !</string>
+
+    <string name="slide_2_title">Browse Websites</string>
+    <string name="slide_2_desc">Save your time through Inbuilt Browser in app !</string>
+
+    <string name="slide_3_title">Test Your Code</string>
+    <string name="slide_3_desc">Are you intrested in coding then execute your code over various platforms !</string>
+
+    <string name="slide_4_title">Share Material</string>
+    <string name="slide_4_desc">Share Website to your friends if you find it useful !</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> Eternity Learning -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
