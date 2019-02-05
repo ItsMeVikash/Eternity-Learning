@@ -6,7 +6,7 @@ Enjoy full strength of ➵ all popular tutorials through your Android Devices. T
 
 ☝ Yes You Listened absolutely right. You Can learn everything from basic to master through all famous websites such as JavaTPoint, TutorialsPoint,GeeksforGeek, Gurur99 etc.
 
-<a href="#" class="button big">Get It On Google Play (https://play.google.com/store/apps/details?id=vikash.kumar.eternitylearning)</a>
+<a href="https://play.google.com/store/apps/details?id=vikash.kumar.eternitylearning" class="button big">Get It On Google Play</a>
 
 Screenshots
 -----------
