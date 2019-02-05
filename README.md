@@ -17,4 +17,6 @@ Screenshots
 ![](https://lh3.googleusercontent.com/efO2rckEA_syOHK_-cGZZMNiXdMUNaUazDVCfM4MlsEkaeBIgrb2FYLAqXbHRNxEzjVC=w720-h310-rw) 
 ![](https://lh3.googleusercontent.com/ZNZoqMhOQSNqy-nXu4szV5Tz8dzBBXvGYCMJN-qsT9ysGpvIDdSAy29_OraC0zPu-cXA=w720-h310-rw)
 
-<a href="https://play.google.com/store/apps/details?id=vikash.kumar.eternitylearning" rel="Google Play">![Foo](https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png)width="200" height="400"]</a>
+<a href="https://play.google.com/store/apps/details?id=vikash.kumar.eternitylearning" rel="Google Play">![Foo](https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png)]</a>
+
+<a href="https://play.google.com/store/apps/details?id=vikash.kumar.eternitylearning" rel="Google Play"><img src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png" alt="alt text" width="100" height="50"></a>
